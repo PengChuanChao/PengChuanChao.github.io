@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My New Hugo Site</title><link>https://example.org/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate/><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My New Hugo Site</title><link>https://example.org/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://example.org/posts/hugo-+-github-actions-%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/posts/hugo-+-github-actions-%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/</guid><description>&lt;p>部署环境 ：
+本地工具&amp;lt;Windows终端PowerShell 7&amp;gt;
+PowerShell 7.5.0-rc.1&lt;br>
+winget install &amp;ndash;id Microsoft.PowerShell.Preview &amp;ndash;source winget
+hugo ：
+hugo-extended
+winget install Hugo.Hugo.Extended
+git：
+winget install Git.Git
+编辑器：
+Notepad
+VSCode_insider
+GitHub
+仓库1：hugo_bin
+仓库1：&amp;lt;用户名&amp;gt;.github.io
+&lt;code>PowerShell 7.5.0-rc.1&lt;/code>
+&lt;code> Administrator on Wednesday at 5:03 PM  hugo new site jinspr&lt;/code>
+&lt;code>Congratulations! Your new Hugo site was created in C:\Users\Administrator\Desktop\jinspr.&lt;/code>&lt;/p>
+&lt;p>&lt;code>Just a few more steps...&lt;/code>&lt;/p>
+&lt;ol>
+&lt;li>&lt;code>Change the current directory to C:\Users\Administrator\Desktop\jinspr.&lt;/code>&lt;/li>
+&lt;li>&lt;code>Create or install a theme:&lt;/code>
+&lt;ul>
+&lt;li>&lt;code>Create a new theme with the command &amp;quot;hugo new theme &amp;lt;THEMENAME&amp;gt;&amp;quot;&lt;/code>
+&lt;code>- Or, install a theme from https://themes.gohugo.io/&lt;/code>
+&lt;code>3. Edit hugo.toml, setting the &amp;quot;theme&amp;quot; property to the theme name.&lt;/code>
+&lt;code>4. Create new content with the command &amp;quot;hugo new content &amp;lt;SECTIONNAME&amp;gt;\&amp;lt;FILENAME&amp;gt;.&amp;lt;FORMAT&amp;gt;&amp;quot;.&lt;/code>
+&lt;code>5. Start the embedded web server with the command &amp;quot;hugo server --buildDrafts&amp;quot;.&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;code>See documentation at https://gohugo.io/.&lt;/code>&lt;/p></description></item></channel></rss>
